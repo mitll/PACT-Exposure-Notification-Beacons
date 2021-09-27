@@ -1,0 +1,5 @@
+confidence,description
+0,"Distance unknown, not recorded"
+1,Sender or receiver phone was moving within 1 minute of measurement
+2,Agent-Agent Distance is known with high confidence
+3,Phone-Phone Distance is known with high confidence

@@ -1,0 +1,696 @@
+phone_id,test_id,tx_power,cal_confidence,rssi_offset,carriage_state
+22,1,-18,3,3,Front Pants Pocket
+23,1,-18,3,3,Front Pants Pocket
+22,2,-18,3,3,Front Pants Pocket
+23,2,-18,3,3,Front Pants Pocket
+22,3,-18,3,3,Front Pants Pocket
+23,3,-18,3,3,Front Pants Pocket
+22,4,-18,3,3,Front Pants Pocket
+23,4,-18,3,3,Front Pants Pocket
+22,5,-18,3,3,Front Pants Pocket
+23,5,-18,3,3,Front Pants Pocket
+22,6,-18,3,3,Front Pants Pocket
+23,6,-18,3,3,Front Pants Pocket
+22,7,-18,3,3,Front Pants Pocket
+23,7,-18,3,3,Front Pants Pocket
+22,8,-18,3,3,Front Pants Pocket
+23,8,-18,3,3,Front Pants Pocket
+22,9,-18,3,3,Front Pants Pocket
+23,9,-18,3,3,Front Pants Pocket
+22,10,-18,3,3,Front Pants Pocket
+23,10,-18,3,3,Front Pants Pocket
+22,11,-18,3,3,Front Pants Pocket
+23,11,-18,3,3,Front Pants Pocket
+22,12,-18,3,3,Front Pants Pocket
+23,12,-18,3,3,Front Pants Pocket
+22,13,-18,3,3,Front Pants Pocket
+23,13,-18,3,3,Front Pants Pocket
+22,14,-18,3,3,Front Pants Pocket
+23,14,-18,3,3,Front Pants Pocket
+22,15,-18,3,3,Front Pants Pocket
+23,15,-18,3,3,Front Pants Pocket
+22,16,-18,3,3,Front Pants Pocket
+23,16,-18,3,3,Front Pants Pocket
+22,17,-18,3,3,Front Pants Pocket
+23,17,-18,3,3,Front Pants Pocket
+22,18,-18,3,3,Front Pants Pocket
+23,18,-18,3,3,Front Pants Pocket
+22,19,-18,3,3,Front Pants Pocket
+23,19,-18,3,3,Front Pants Pocket
+22,20,-18,3,3,Front Pants Pocket
+23,20,-18,3,3,Front Pants Pocket
+22,21,-18,3,3,Front Pants Pocket
+21,21,-19,3,3,Front Pants Pocket
+23,22,-18,3,3,Front Pants Pocket
+21,22,-19,3,3,Front Pants Pocket
+22,23,-18,3,3,Front Pants Pocket
+23,23,-18,3,3,Front Pants Pocket
+22,24,-18,3,3,Front Pants Pocket
+21,24,-19,3,3,Front Pants Pocket
+23,25,-18,3,3,Front Pants Pocket
+21,25,-19,3,3,Front Pants Pocket
+22,26,-18,3,3,Front Pants Pocket
+23,26,-18,3,3,Front Pants Pocket
+22,27,-18,3,3,Front Pants Pocket
+21,27,-19,3,3,Front Pants Pocket
+23,28,-18,3,3,Front Pants Pocket
+21,28,-19,3,3,Front Pants Pocket
+22,29,-18,3,3,Front Pants Pocket
+23,29,-18,3,3,Front Pants Pocket
+22,30,-18,3,3,Front Pants Pocket
+21,30,-19,3,3,Front Pants Pocket
+23,31,-18,3,3,Front Pants Pocket
+21,31,-19,3,3,Front Pants Pocket
+22,32,-18,3,3,Front Pants Pocket
+23,32,-18,3,3,Front Pants Pocket
+22,33,-18,3,3,Front Pants Pocket
+21,33,-19,3,3,Front Pants Pocket
+23,34,-18,3,3,Front Pants Pocket
+21,34,-19,3,3,Front Pants Pocket
+22,35,-18,3,3,Front Pants Pocket
+23,35,-18,3,3,Front Pants Pocket
+22,36,-18,3,3,Front Pants Pocket
+21,36,-19,3,3,Front Pants Pocket
+23,37,-18,3,3,Front Pants Pocket
+21,37,-19,3,3,Front Pants Pocket
+22,38,-18,3,3,Front Pants Pocket
+23,38,-18,3,3,Front Pants Pocket
+22,39,-18,3,3,Front Pants Pocket
+21,39,-19,3,3,Front Pants Pocket
+23,40,-18,3,3,Front Pants Pocket
+21,40,-19,3,3,Front Pants Pocket
+22,41,-18,3,3,Front Pants Pocket
+23,41,-18,3,3,Front Pants Pocket
+22,42,-18,3,3,Front Pants Pocket
+21,42,-19,3,3,Front Pants Pocket
+23,43,-18,3,3,Front Pants Pocket
+21,43,-19,3,3,Front Pants Pocket
+22,44,-18,3,3,Front Pants Pocket
+23,44,-18,3,3,Front Pants Pocket
+22,45,-18,3,3,Front Pants Pocket
+21,45,-19,3,3,Front Pants Pocket
+23,46,-18,3,3,Front Pants Pocket
+21,46,-19,3,3,Front Pants Pocket
+22,47,-18,3,3,Front Pants Pocket
+23,47,-18,3,3,Front Pants Pocket
+22,48,-18,3,3,Front Pants Pocket
+21,48,-19,3,3,Front Pants Pocket
+23,49,-18,3,3,Front Pants Pocket
+21,49,-19,3,3,Front Pants Pocket
+22,50,-18,3,3,Front Pants Pocket
+23,50,-18,3,3,Front Pants Pocket
+22,51,-18,3,3,Front Pants Pocket
+21,51,-19,3,3,Front Pants Pocket
+23,52,-18,3,3,Front Pants Pocket
+21,52,-19,3,3,Front Pants Pocket
+22,53,-18,3,3,Front Pants Pocket
+23,53,-18,3,3,Front Pants Pocket
+22,54,-18,3,3,Front Pants Pocket
+21,54,-19,3,3,Front Pants Pocket
+23,55,-18,3,3,Front Pants Pocket
+21,55,-19,3,3,Front Pants Pocket
+22,56,-18,3,3,Front Pants Pocket
+23,56,-18,3,3,Front Pants Pocket
+22,57,-18,3,3,Front Pants Pocket
+23,57,-18,3,3,Front Pants Pocket
+22,58,-18,3,3,Front Pants Pocket
+23,58,-18,3,3,Front Pants Pocket
+22,59,-18,3,3,Front Pants Pocket
+23,59,-18,3,3,Front Pants Pocket
+22,60,-18,3,3,Front Pants Pocket
+23,60,-18,3,3,Front Pants Pocket
+22,61,-18,3,3,Front Pants Pocket
+23,61,-18,3,3,Front Pants Pocket
+22,62,-18,3,3,Front Pants Pocket
+23,62,-18,3,3,Front Pants Pocket
+22,63,-18,3,3,Front Pants Pocket
+23,63,-18,3,3,Front Pants Pocket
+22,64,-18,3,3,Front Pants Pocket
+23,64,-18,3,3,Front Pants Pocket
+22,65,-18,3,3,Front Pants Pocket
+23,65,-18,3,3,Front Pants Pocket
+22,66,-18,3,3,Front Pants Pocket
+23,66,-18,3,3,Front Pants Pocket
+22,67,-18,3,3,Front Pants Pocket
+23,67,-18,3,3,Front Pants Pocket
+22,68,-18,3,3,Front Shirt Pocket
+23,68,-18,3,3,Front Shirt Pocket
+22,69,-18,3,3,Front Shirt Pocket
+23,69,-18,3,3,Front Shirt Pocket
+22,70,-18,3,3,Front Shirt Pocket
+23,70,-18,3,3,Front Shirt Pocket
+22,71,-18,3,3,Front Shirt Pocket
+23,71,-18,3,3,Front Shirt Pocket
+22,72,-18,3,3,Front Shirt Pocket
+23,72,-18,3,3,Front Shirt Pocket
+22,73,-18,3,3,Front Shirt Pocket
+23,73,-18,3,3,Front Shirt Pocket
+22,74,-18,3,3,Front Shirt Pocket
+23,74,-18,3,3,Front Shirt Pocket
+22,75,-18,3,3,Front Shirt Pocket
+23,75,-18,3,3,Front Shirt Pocket
+22,76,-18,3,3,Front Shirt Pocket
+23,76,-18,3,3,Front Shirt Pocket
+22,77,-18,3,3,Front Shirt Pocket
+23,77,-18,3,3,Front Shirt Pocket
+22,78,-18,3,3,Front Shirt Pocket
+23,78,-18,3,3,Front Shirt Pocket
+22,79,-18,3,3,Front Shirt Pocket
+23,79,-18,3,3,Front Shirt Pocket
+22,80,-18,3,3,Front Shirt Pocket
+23,80,-18,3,3,Front Shirt Pocket
+22,81,-18,3,3,Front Shirt Pocket
+23,81,-18,3,3,Front Shirt Pocket
+22,82,-18,3,3,Front Shirt Pocket
+23,82,-18,3,3,Front Shirt Pocket
+22,83,-18,3,3,Front Shirt Pocket
+23,83,-18,3,3,Front Shirt Pocket
+22,84,-18,3,3,Front Shirt Pocket
+23,84,-18,3,3,Front Shirt Pocket
+22,85,-18,3,3,Front Shirt Pocket
+23,85,-18,3,3,Front Shirt Pocket
+22,86,-18,3,3,Front Shirt Pocket
+23,86,-18,3,3,Front Shirt Pocket
+22,87,-18,3,3,Front Shirt Pocket
+23,87,-18,3,3,Front Shirt Pocket
+22,88,-18,3,3,Front Shirt Pocket
+23,88,-18,3,3,Front Shirt Pocket
+22,89,-18,3,3,Front Shirt Pocket
+23,89,-18,3,3,Front Shirt Pocket
+22,90,-18,3,3,Front Shirt Pocket
+23,90,-18,3,3,Front Shirt Pocket
+22,91,-18,3,3,Front Shirt Pocket
+23,91,-18,3,3,Front Shirt Pocket
+22,92,-18,3,3,Front Shirt Pocket
+23,92,-18,3,3,Front Shirt Pocket
+22,93,-18,3,3,Front Shirt Pocket
+23,93,-18,3,3,Front Shirt Pocket
+22,94,-18,3,3,Front Shirt Pocket
+23,94,-18,3,3,Front Shirt Pocket
+22,95,-18,3,3,Front Pants Pocket
+23,95,-18,3,3,Front Pants Pocket
+22,96,-18,3,3,Front Pants Pocket
+23,96,-18,3,3,Front Pants Pocket
+22,97,-18,3,3,Front Pants Pocket
+23,97,-18,3,3,Front Pants Pocket
+22,98,-18,3,3,Front Pants Pocket
+23,98,-18,3,3,Front Pants Pocket
+22,99,-18,3,3,Front Pants Pocket
+23,99,-18,3,3,Front Pants Pocket
+22,100,-18,3,3,Front Pants Pocket
+23,100,-18,3,3,Front Pants Pocket
+22,101,-18,3,3,Front Pants Pocket
+23,101,-18,3,3,Front Pants Pocket
+22,102,-18,3,3,Front Pants Pocket
+23,102,-18,3,3,Front Pants Pocket
+22,103,-18,3,3,Front Pants Pocket
+23,103,-18,3,3,Front Pants Pocket
+22,104,-18,3,3,Front Pants Pocket
+23,104,-18,3,3,Front Pants Pocket
+22,105,-18,3,3,Front Pants Pocket
+23,105,-18,3,3,Front Pants Pocket
+22,106,-18,3,3,Front Pants Pocket
+23,106,-18,3,3,Front Pants Pocket
+22,107,-18,3,3,Bag
+23,107,-18,3,3,Bag
+22,108,-18,3,3,Bag
+23,108,-18,3,3,Bag
+22,109,-18,3,3,Bag
+23,109,-18,3,3,Bag
+22,110,-18,3,3,Bag
+23,110,-18,3,3,Bag
+22,111,-18,3,3,Bag
+23,111,-18,3,3,Bag
+22,112,-18,3,3,Bag
+23,112,-18,3,3,Bag
+22,113,-18,3,3,Bag
+23,113,-18,3,3,Bag
+22,114,-18,3,3,Bag
+23,114,-18,3,3,Bag
+22,115,-18,3,3,Bag
+23,115,-18,3,3,Bag
+22,116,-18,3,3,Bag
+23,116,-18,3,3,Bag
+22,117,-18,3,3,Bag
+23,117,-18,3,3,Bag
+22,118,-18,3,3,Bag
+23,118,-18,3,3,Bag
+22,119,-18,3,3,Bag
+23,119,-18,3,3,Bag
+22,120,-18,3,3,Bag
+23,120,-18,3,3,Bag
+22,121,-18,3,3,Bag
+23,121,-18,3,3,Bag
+22,122,-18,3,3,Bag
+23,122,-18,3,3,Bag
+22,123,-18,3,3,Bag
+23,123,-18,3,3,Bag
+22,124,-18,3,3,Bag
+23,124,-18,3,3,Bag
+22,125,-18,3,3,Bag
+23,125,-18,3,3,Bag
+22,126,-18,3,3,Bag
+23,126,-18,3,3,Bag
+22,127,-18,3,3,Bag
+23,127,-18,3,3,Bag
+22,128,-18,3,3,Front Shirt Pocket
+23,128,-18,3,3,Front Shirt Pocket
+22,129,-18,3,3,Front Shirt Pocket
+23,129,-18,3,3,Front Shirt Pocket
+22,130,-18,3,3,Front Shirt Pocket
+23,130,-18,3,3,Front Shirt Pocket
+22,131,-18,3,3,Front Shirt Pocket
+23,131,-18,3,3,Front Shirt Pocket
+22,132,-18,3,3,Front Shirt Pocket
+23,132,-18,3,3,Front Shirt Pocket
+22,133,-18,3,3,Front Shirt Pocket
+23,133,-18,3,3,Front Shirt Pocket
+22,134,-18,3,3,Front Shirt Pocket
+23,134,-18,3,3,Front Shirt Pocket
+22,135,-18,3,3,Front Shirt Pocket
+23,135,-18,3,3,Front Shirt Pocket
+22,136,-18,3,3,Front Shirt Pocket
+23,136,-18,3,3,Front Shirt Pocket
+22,137,-18,3,3,Front Shirt Pocket
+23,137,-18,3,3,Front Shirt Pocket
+22,138,-18,3,3,Front Shirt Pocket
+23,138,-18,3,3,Front Shirt Pocket
+22,139,-18,3,3,Front Shirt Pocket
+23,139,-18,3,3,Front Shirt Pocket
+22,140,-18,3,3,Front Pants Pocket
+23,140,-18,3,3,Front Pants Pocket
+22,141,-18,3,3,Front Pants Pocket
+23,141,-18,3,3,Front Pants Pocket
+22,142,-18,3,3,Front Pants Pocket
+23,142,-18,3,3,Front Pants Pocket
+22,143,-18,3,3,Front Pants Pocket
+23,143,-18,3,3,Front Pants Pocket
+22,144,-18,3,3,Front Pants Pocket
+23,144,-18,3,3,Front Pants Pocket
+22,145,-18,3,3,Front Pants Pocket
+23,145,-18,3,3,Front Pants Pocket
+22,146,-18,3,3,Front Pants Pocket
+23,146,-18,3,3,Front Pants Pocket
+22,147,-18,3,3,Front Pants Pocket
+23,147,-18,3,3,Front Pants Pocket
+22,148,-18,3,3,Front Pants Pocket
+23,148,-18,3,3,Front Pants Pocket
+22,149,-18,3,3,Front Pants Pocket
+23,149,-18,3,3,Front Pants Pocket
+22,150,-18,3,3,Front Pants Pocket
+23,150,-18,3,3,Front Pants Pocket
+22,151,-18,3,3,Front Pants Pocket
+23,151,-18,3,3,Front Pants Pocket
+22,152,-18,3,3,Bag
+23,152,-18,3,3,Bag
+22,153,-18,3,3,Bag
+23,153,-18,3,3,Bag
+22,154,-18,3,3,Bag
+23,154,-18,3,3,Bag
+22,155,-18,3,3,Bag
+23,155,-18,3,3,Bag
+22,156,-18,3,3,Bag
+23,156,-18,3,3,Bag
+22,157,-18,3,3,Bag
+23,157,-18,3,3,Bag
+22,158,-18,3,3,Bag
+23,158,-18,3,3,Bag
+22,159,-18,3,3,Bag
+23,159,-18,3,3,Bag
+22,160,-18,3,3,Bag
+23,160,-18,3,3,Bag
+22,161,-18,3,3,Bag
+23,161,-18,3,3,Bag
+22,162,-18,3,3,Bag
+23,162,-18,3,3,Bag
+22,163,-18,3,3,Bag
+23,163,-18,3,3,Bag
+22,164,-18,3,3,Front Shirt Pocket
+23,164,-18,3,3,Front Shirt Pocket
+22,165,-18,3,3,Front Shirt Pocket
+23,165,-18,3,3,Front Shirt Pocket
+22,166,-18,3,3,Front Shirt Pocket
+23,166,-18,3,3,Front Shirt Pocket
+22,167,-18,3,4,Front Pants Pocket
+23,167,-18,3,4,Front Pants Pocket
+22,168,-18,3,4,Front Pants Pocket
+23,168,-18,3,4,Front Pants Pocket
+22,169,-18,3,4,Front Pants Pocket
+23,169,-18,3,4,Front Pants Pocket
+22,170,-23,3,4,Front Pants Pocket
+23,170,-23,3,4,Front Pants Pocket
+22,171,-23,3,4,Front Pants Pocket
+23,171,-23,3,4,Front Pants Pocket
+22,172,-23,3,4,Front Pants Pocket
+23,172,-23,3,4,Front Pants Pocket
+22,173,-23,3,4,Front Pants Pocket
+23,173,-23,3,4,Front Pants Pocket
+22,174,-23,3,4,Front Pants Pocket
+23,174,-23,3,4,Front Pants Pocket
+22,175,-23,3,4,Front Pants Pocket
+23,175,-23,3,4,Front Pants Pocket
+22,176,-23,3,4,Front Pants Pocket
+23,176,-23,3,4,Front Pants Pocket
+22,177,-23,3,4,Front Pants Pocket
+23,177,-23,3,4,Front Pants Pocket
+22,178,-23,3,4,Front Pants Pocket
+23,178,-23,3,4,Front Pants Pocket
+22,179,-23,3,4,Bag
+23,179,-23,3,4,Bag
+22,180,-23,3,4,Bag
+23,180,-23,3,4,Bag
+22,181,-23,3,4,Bag
+23,181,-23,3,4,Bag
+20,182,0,3,,LFSP
+7,182,-32,3,9,LFSP
+9,182,-29,3,2,LFSP
+12,182,-24,1,3,LFSP
+13,182,-23,3,4,LFSP
+15,182,-27,1,3,LFSP
+7,183,-32,3,9,LFSP
+20,183,0,3,,LFSP
+9,183,-29,3,2,LFSP
+12,183,-24,1,3,LFSP
+13,183,-23,3,4,LFSP
+15,183,-27,1,3,LFSP
+20,184,0,3,,LFSP
+9,184,-29,3,2,LFSP
+7,184,-32,3,9,LFSP
+12,184,-24,1,3,LFSP
+13,184,-23,3,4,LFSP
+15,184,-27,1,3,LFSP
+19,185,0,3,,LIJP
+14,185,-23,3,4,RFPP
+2,185,-20,1,0,LFPP
+9,185,-29,3,2,LFSP
+10,185,-29,3,2,LFSP
+11,185,-24,1,3,LFSP
+7,185,-32,3,9,Hand
+5,185,-24,1,8,LFPP
+13,185,-23,3,4,Bag (adj)
+15,185,-27,1,3,LFSP
+17,185,0,3,,LFSP
+1,185,-20,1,0,LFSP
+8,185,-32,3,9,Bag (adj)
+9,186,-29,3,2,LIJP
+14,186,-23,3,4,RFPP
+2,186,-20,1,0,LFPP
+19,186,-23,3,,LFSP
+10,186,-29,3,2,LFSP
+11,186,-24,1,3,LFSP
+7,186,-32,3,9,Hand
+5,186,-24,1,8,LFPP
+13,186,-23,3,4,Bag (adj)
+15,186,-27,1,3,LFSP
+17,186,-23,3,,LFSP
+8,186,-32,3,9,LFSP
+1,186,-20,1,0,Bag (adj)
+2,187,-20,1,0,LIJP
+14,187,-23,3,4,RFPP
+19,187,-23,3,,LFPP
+9,187,-29,3,2,LFSP
+10,187,-29,3,2,LFSP
+11,187,-24,1,3,LFSP
+7,187,-32,3,9,Hand
+5,187,-24,1,8,LFPP
+13,187,-23,3,4,Bag (adj)
+15,187,-27,1,3,LFSP
+17,187,-23,3,,LFSP
+8,187,-32,3,9,LFSP
+1,187,-20,1,0,Bag (adj)
+10,188,-29,3,2,LFHP
+1,188,-20,1,0,LFPP
+12,188,-24,1,3,LFSP
+9,188,-29,3,2,RFPP
+3,188,-23,1,11,Table
+13,188,-23,3,4,RFPP
+19,188,0,3,,Table
+8,188,-32,3,9,LFSP
+17,188,0,3,,Bag (adj)
+11,188,-24,1,3,Table
+15,188,-27,1,3,Hand
+20,188,0,3,,LFSP
+2,188,-20,1,0,LFSP
+14,188,-23,3,4,Table
+18,188,0,3,,LFSP
+7,188,-32,3,9,Bag (adj)
+10,189,-29,3,2,LFHP
+19,189,-27,3,,LFPP
+12,189,-24,1,3,LFSP
+9,189,-29,3,2,RFPP
+3,189,-23,1,11,Table
+13,189,-23,3,4,RFPP
+1,189,-20,1,0,Table
+8,189,-32,3,9,LFSP
+17,189,-27,3,,Bag (adj)
+11,189,-24,1,3,Table
+15,189,-27,1,3,Hand
+20,189,-27,3,,LFSP
+2,189,-20,1,0,LFSP
+14,189,-23,3,4,Table
+18,189,-27,3,,LFSP
+7,189,-32,3,9,Bag (adj)
+10,190,-29,3,2,LFHP
+19,190,-27,3,,LFPP
+12,190,-24,1,3,LFSP
+9,190,-29,3,2,RFPP
+3,190,-23,1,11,Table
+1,190,-20,1,0,RFPP
+13,190,-23,3,4,Table
+8,190,-32,3,9,LFSP
+17,190,-27,3,,Bag (adj)
+11,190,-24,1,3,Table
+15,190,-27,1,3,Hand
+20,190,-27,3,,LFSP
+2,190,-20,1,0,LFSP
+14,190,-23,3,4,Table
+18,190,-27,3,,LFSP
+7,190,-32,3,9,Bag (adj)
+17,191,3,3,,Bag (adj)
+9,191,-29,3,2,LFSP
+8,191,-32,3,9,Table
+12,191,-24,1,3,RBPP
+1,191,-20,1,0,LFPP
+13,191,-23,3,4,RFPP
+15,191,-27,1,3,LFSP
+10,191,-29,3,2,Bag (adj)
+18,191,0,3,,Hand
+8,192,-32,3,,Bag (adj)
+9,192,-29,3,2,LFSP
+17,192,0,3,,Table
+12,192,-24,1,3,RBPP
+1,192,-20,1,0,LFPP
+13,192,-23,3,4,RFPP
+15,192,-27,1,3,LFSP
+10,192,-29,3,2,Bag (adj)
+18,192,0,3,,Hand
+1,193,-20,1,,Bag (adj)
+9,193,-29,3,2,LFSP
+8,193,-32,3,9,Table
+12,193,-24,1,3,RBPP
+17,193,-20,3,,LFPP
+13,193,-23,3,4,RFPP
+15,193,-27,1,3,LFSP
+10,193,-29,3,2,Bag (adj)
+18,193,-20,3,,Hand
+13,194,-23,3,4,HP
+11,194,-24,1,3,LFSP
+18,194,3,3,,Bag (adj)
+5,194,-24,1,8,LFSP
+9,194,-29,3,2,LFPP
+16,194,-27,1,3,Bag (adj)
+8,194,-32,3,9,LFSP
+2,194,-20,1,0,LFPP
+14,194,-23,3,4,LFSP
+7,194,-32,3,9,LFSP
+17,194,0,3,,LIJP
+1,194,-20,1,0,LFPP
+12,194,-24,1,3,LFPP
+10,194,-29,3,2,RFPP
+15,194,-27,1,3,LFSP
+13,195,-23,3,4,HP
+18,195,0,3,,LFSP
+11,195,-24,1,3,Bag (adj)
+5,195,-24,1,8,LFSP
+9,195,-29,3,2,LFPP
+16,195,-27,1,3,Bag (adj)
+8,195,-32,3,9,LFSP
+2,195,-20,1,0,LFPP
+14,195,-23,3,4,LFSP
+7,195,-32,3,9,LFSP
+17,195,0,3,,LIJP
+1,195,-20,1,0,LFPP
+12,195,-24,1,3,LFPP
+10,195,-29,3,2,RFPP
+15,195,-27,1,3,LFSP
+18,196,-29,3,,HP
+11,196,-24,1,3,LFSP
+13,196,-23,3,4,Bag (adj)
+5,196,-24,1,8,LFSP
+9,196,-29,3,2,LFPP
+16,196,-27,1,3,Bag (adj)
+8,196,-32,3,9,LFSP
+2,196,-20,1,0,LFPP
+14,196,-23,3,4,LFSP
+7,196,-32,3,9,LFSP
+17,196,-29,3,,LIJP
+1,196,-20,1,0,LFPP
+12,196,-24,1,3,LFPP
+10,196,-29,3,2,RFPP
+15,196,-27,1,3,LFSP
+15,197,-27,1,3,RBPP
+13,197,-23,3,4,Bag (worn)
+18,197,3,3,,RBPP
+1,197,-20,1,0,LFSP
+9,197,-29,3,2,Hand
+16,197,-27,1,3,Bag (worn)
+8,197,-32,3,9,Hand
+2,197,-20,1,0,Hand
+14,197,-23,3,4,LFPP
+4,197,-23,1,11,LIJP
+7,197,-32,3,9,Hand
+17,197,0,3,,LFSP
+12,197,-24,1,3,Hand
+10,197,-29,3,2,Hand
+11,197,-24,1,3,Hand
+15,198,-27,1,3,RBPP
+13,198,-23,3,4,Bag (worn)
+9,198,-29,3,2,RBPP
+1,198,-20,1,0,LFSP
+18,198,0,3,,Hand
+16,198,-27,1,3,Bag (worn)
+8,198,-32,3,9,Hand
+2,198,-20,1,0,Hand
+14,198,-23,3,4,LFPP
+4,198,-23,1,11,LIJP
+7,198,-32,3,9,Hand
+17,198,0,3,,LFSP
+12,198,-24,1,3,Hand
+10,198,-29,3,2,Hand
+11,198,-24,1,3,Hand
+15,199,-27,1,3,RBPP
+13,199,-23,3,4,Bag (worn)
+1,199,-20,1,0,RBPP
+18,199,0,3,,LFSP
+9,199,-29,3,2,Hand
+16,199,-27,1,3,Bag (worn)
+8,199,-32,3,9,Hand
+2,199,-20,1,0,Hand
+14,199,-23,3,4,LFPP
+4,199,-23,1,11,LIJP
+7,199,-32,3,9,Hand
+17,199,0,3,,LFSP
+12,199,-24,1,3,Hand
+10,199,-29,3,2,Hand
+11,199,-24,1,3,Hand
+5,200,-24,1,8,RFSP
+7,200,-32,3,9,RBPP
+11,200,-24,1,3,LFSP
+20,200,0,3,,RFPP
+16,200,-27,1,3,LIJP
+13,200,-23,3,4,LFPP
+9,200,-29,3,2,Hand
+1,200,-20,1,0,RFPP
+5,201,-24,1,8,RFSP
+7,201,-32,3,9,RBPP
+20,201,0,3,,LFSP
+11,201,-24,1,3,RFPP
+16,201,-27,1,3,LIJP
+13,201,-23,3,4,LFPP
+9,201,-29,3,2,Hand
+1,201,-20,1,0,RFPP
+5,202,-24,1,8,RFSP
+20,202,0,3,,RBPP
+11,202,-24,1,3,LFSP
+7,202,-32,3,9,RFPP
+16,202,-27,1,3,LIJP
+13,202,-23,3,4,LFPP
+9,202,-29,3,2,Hand
+1,202,-20,1,0,RFPP
+10,203,-29,3,2,LFSP
+2,203,-20,1,0,LFSP
+18,203,3,3,,Hand
+14,203,-23,3,4,LFHP
+15,203,-27,1,3,LFSP
+13,203,-23,3,4,Hand
+19,203,3,3,,LFPP
+16,203,-27,1,3,Hand
+11,203,-24,1,3,Hand
+9,203,-29,3,2,RFPP
+1,203,-20,1,0,LFSP
+5,203,-24,1,8,RFPP
+7,203,-32,3,9,LFPP
+17,203,3,3,,Bag (worn)
+18,204,-23,3,,LFSP
+2,204,-20,1,0,LFSP
+10,204,-29,3,2,Hand
+14,204,-23,3,4,LFHP
+15,204,-27,1,3,LFSP
+13,204,-23,3,4,Hand
+19,204,-23,3,,LFPP
+16,204,-27,1,3,Hand
+11,204,-24,1,3,Hand
+9,204,-29,3,2,RFPP
+1,204,-20,1,0,LFSP
+5,204,-24,1,8,RFPP
+7,204,-32,3,9,LFPP
+17,204,-23,3,,Bag (worn)
+10,205,-29,3,2,LFSP
+18,205,-23,3,,LFSP
+2,205,-20,1,0,Hand
+14,205,-23,3,4,LFHP
+15,205,-27,1,3,LFSP
+13,205,-23,3,4,Hand
+19,205,-23,3,,LFPP
+16,205,-27,1,3,Hand
+11,205,-24,1,3,Hand
+9,205,-29,3,2,RFPP
+1,205,-20,1,0,LFSP
+5,205,-24,1,8,RFPP
+7,205,-32,3,9,LFPP
+17,205,-23,3,,Bag (worn)
+14,206,-23,3,4,LFSP
+17,206,3,3,,LBPP
+11,206,-24,1,3,LFSP
+16,206,-27,1,3,RBPP
+7,206,-32,3,9,Hand
+12,206,-24,1,3,LFSP
+10,206,-29,3,2,LBPP
+9,206,-29,3,2,Hand
+2,206,-20,1,0,Hand
+15,206,-27,1,3,RFPP
+8,206,-32,3,9,LFSP
+1,206,-20,1,0,HP
+13,206,-23,3,4,RFPP
+6,206,-24,1,8,RFHP
+20,206,0,3,,LFSP
+17,207,0,3,,LFSP
+14,207,-23,3,4,LBPP
+11,207,-24,1,3,LFSP
+16,207,-27,1,3,RBPP
+7,207,-32,3,9,Hand
+12,207,-24,1,3,LFSP
+10,207,-29,3,2,LBPP
+9,207,-29,3,2,Hand
+2,207,-20,1,0,Hand
+15,207,-27,1,3,RFPP
+8,207,-32,3,9,LFSP
+1,207,-20,1,0,HP
+13,207,-23,3,4,RFPP
+6,207,-24,1,8,RFHP
+20,207,0,3,,LFSP
+17,208,0,3,,LFSP
+16,208,-27,1,3,LBPP
+11,208,-24,1,3,LFSP
+14,208,-23,3,4,RBPP
+7,208,-32,3,9,Hand
+12,208,-24,1,3,LFSP
+10,208,-29,3,2,LBPP
+9,208,-29,3,2,Hand
+2,208,-20,1,0,Hand
+15,208,-27,1,3,RFPP
+8,208,-32,3,9,LFSP
+1,208,-20,1,0,HP
+13,208,-23,3,4,RFPP
+6,208,-24,1,8,RFHP
+20,208,0,3,,LFSP

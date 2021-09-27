@@ -1,0 +1,24 @@
+id,phone_id,phone_manufacturer,phone_model,serial_number
+1,01,Samsung,Galaxy A50 SM-A505U1,R58N34X4RHM
+3,03,Samsung,Galaxy S5 SM-G900V,
+5,05,Samsung,Galaxy S6 SM-G920V,R28G425J11K
+7,07,Samsung,Galaxy S7 SM-G930V,R38H50P2WBN
+8,08,Samsung,Galaxy S7 SM-G930V,R38J20FP4ZL
+10,10,Google,Pixel 3a,98DAY14D34
+21,541784,Motorola,g5+,
+22,556868,Motorola,g7,
+23,556870,Motorola,g7,
+2,02,Samsung,Galaxy A50,R58N351Z8AN
+4,04,Samsung,Galaxy S5 SM-G900V,
+6,06,Samsung,Galaxy S6 SM-G920V,R28G31TN8SM
+9,09,Google,Pixel 3a,98AAY13WUZ
+11,11,Motorola,e6 XT2005-5,ZF65233QQ5
+12,12,Motorola,e6 XT2005-5,ZF65235HCZ
+13,13,Motorola,g7 XT1962-1,ZY226DGBHH
+14,14,Motorola,g7 XT1962-1,ZY226D33ZQ
+15,15,Google,Pixel 2,FA7CM1A00071
+16,16,Google,Pixel 2,HT7BR1A02172
+17,17,Apple,iPhone 11 Pro,C39ZPA9TN6XQ
+18,18,Apple,iPhone 7,F4HSL421HG6W
+19,19,Apple,iPhone SE,FFWCQYLXPLJP
+20,20,Apple,iPhone XR,FFWCL41PKXKV
