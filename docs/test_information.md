@@ -32,7 +32,7 @@ Human-analogue robots were used for close interactions. In larger scenarios in t
 |:--:|
 | **Figure 6: Public Transit** |
 
-| ![social](../assets/images/Social.png) |
+| ![social](../assets/images/social.png) |
 |:--:|
 | **Figure 7: Social** |
 
